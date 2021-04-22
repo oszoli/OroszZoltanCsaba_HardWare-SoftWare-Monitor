@@ -1,0 +1,5 @@
+D:\Eskola\HardWare SoftWare Monitor\HardWare SoftWare Monitor\obj\Debug\HardWare SoftWare Monitor.csprojAssemblyReference.cache
+D:\Eskola\HardWare SoftWare Monitor\HardWare SoftWare Monitor\obj\Debug\MainWindow.g.cs
+D:\Eskola\HardWare SoftWare Monitor\HardWare SoftWare Monitor\obj\Debug\App.g.cs
+D:\Eskola\HardWare SoftWare Monitor\HardWare SoftWare Monitor\obj\Debug\HardWare SoftWare Monitor_MarkupCompile.cache
+D:\Eskola\HardWare SoftWare Monitor\HardWare SoftWare Monitor\obj\Debug\HardWare SoftWare Monitor_MarkupCompile.lref
